@@ -24,6 +24,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
+import net.sf.saxon.functions.ConstantFunction;
 import org.apache.bcel.Const;
 import org.apache.bcel.classfile.ConstantClass;
 import org.apache.bcel.classfile.Field;
